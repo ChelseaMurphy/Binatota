@@ -4,4 +4,6 @@
 
 <i>fna</i> - contains the nucleic acid sequence files
 
-Tree files can be accessed at: https://itol.embl.de/shared/1WgxEjrQfEYWk
+Phylogenomic and 16S-based tree files can be accessed at: https://itol.embl.de/shared/1WgxEjrQfEYWk
+
+Chlorophyll biosynthesis genes tree files can be accessed at: https://itol.embl.de/shared/34y3BUHcQd7Lh
